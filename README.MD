@@ -1,0 +1,3 @@
+## AT&T NJ Civic App Challange
+
+AT&T, in collaboration with the New Jersey Technology Council, several economic development, educational and veterans resource organizations in New Jersey, will launch the New Jersey Civic App Challenge -- a “virtual hackathon” in which innovative thinkers, designers, artists, developers and entrepreneurs are encouraged to build and deliver apps and services that serve community needs with a particular focus on veterans and their families; connect and engage citizens with their governments; and demonstrate how mobile technologies can lead to the next generation of tech jobs and investment. - See more at: http://attnj.njcivicapp.com/
